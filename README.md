@@ -1,2 +1,2 @@
 # hello-word
-my first githoub repository， change this file.
+my first github repository， change this file.
